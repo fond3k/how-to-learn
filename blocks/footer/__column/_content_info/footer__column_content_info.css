@@ -1,0 +1,10 @@
+.footer__column_content_info {
+display: flex;
+position: relative;
+flex-wrap: wrap;
+line-height: 18px;
+font-size: 18px;
+font-weight: 700;
+flex-direction: column;
+color: #f2f2f2;
+}

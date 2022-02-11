@@ -1,0 +1,15 @@
+.cards__item {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  position: relative;
+  min-width: 160px;
+  width: 240px;
+  padding-right: 100px;
+  text-align: center;
+  align-items: center;
+  justify-content: baseline;
+}
+.cards__item:nth-child(3n) {
+  padding: 0;
+}

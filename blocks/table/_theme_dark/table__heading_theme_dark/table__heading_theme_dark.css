@@ -1,0 +1,10 @@
+.table__heading_theme_dark {
+  display: flex;
+  position: relative;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  margin: 0;
+  color: #f2f2f2;
+}

@@ -1,0 +1,7 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  font-family: "Inter-Regular" , "Inter-Bold" , "Inter-SemiBold"; 
+  min-height: 100%;
+  margin: 0 auto;
+}

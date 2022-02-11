@@ -1,0 +1,12 @@
+.table__text_theme_dark {
+  display: flex;
+  position: relative;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+  margin: 0;
+  color:  #f2f2f2;
+  justify-content: center;
+  text-align: left;
+  }

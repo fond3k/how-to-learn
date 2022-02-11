@@ -1,0 +1,12 @@
+.resources__logo {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  position: relative;
+  width: 270px;
+  height: 38px;
+  padding-right: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  align-items: baseline;
+}
