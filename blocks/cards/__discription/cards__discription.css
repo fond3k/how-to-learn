@@ -1,10 +1,10 @@
 .cards__discription {
-  display: flex;
-  position: relative;
-  margin: 0 auto;
-  font-size: 18px;
-  line-height: 23px;
-  font-weight: 400;
-  align-items: baseline;
-  justify-content: center;
+display: flex;
+position: relative;
+margin: 0 auto;
+font-size: 18px;
+line-height: 23px;
+font-weight: 400;
+align-items: baseline;
+justify-content: center;
 }

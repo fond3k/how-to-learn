@@ -1,9 +1,9 @@
 .table__cell_theme_dark {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  position: relative;
-  width: 200px;
-  margin: 80px 5px 0px;
-  align-items: baseline;
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+position: relative;
+width: 200px;
+margin: 80px 5px 0px;
+align-items: baseline;
 }

@@ -10,6 +10,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__square-pic/__square-pic_rotation/header__square-pic_rotation.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
+@import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/_place/logo_place_footer.css);
 @import url(../blocks/_place/logo_place_header.css);
 
