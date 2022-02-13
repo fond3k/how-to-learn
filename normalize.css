@@ -374,3 +374,8 @@ template {
 [hidden] {
   display: none;
 }
+
+.main {
+  margin: 0 auto;
+  justify-content: center;
+}

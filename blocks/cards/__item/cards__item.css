@@ -10,3 +10,6 @@ text-align: center;
 align-items: center;
 justify-content: baseline;
 }
+.cards__item:nth-child(3n) {
+  padding: 0;
+}
