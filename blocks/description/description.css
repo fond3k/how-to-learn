@@ -1,10 +1,9 @@
 .description {
 display: flex;
 position: relative;
-margin-top: 100px;
+padding-top: 100px;
 width: 100%;
 min-width: 784px;
 justify-content: center;
 align-items: baseline;
-margin-bottom: 100px;
 }
